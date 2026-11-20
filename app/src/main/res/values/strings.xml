@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">PantryFlow</string>
+    <string name="app_subtitle">Tủ thực phẩm gia đình</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_pantry">Tủ đồ</string>
+    <string name="nav_add">Thêm mới</string>
+    <string name="nav_recipes">Gợi ý món</string>
+    <string name="nav_settings">Cài đặt</string>
+
+    <!-- Storage Locations -->
+    <string name="location_all">Tất cả</string>
+    <string name="location_fridge">Ngăn mát</string>
+    <string name="location_freezer">Ngăn đông</string>
+    <string name="location_pantry">Tủ bếp</string>
+    <string name="location_other">Khác</string>
+
+    <!-- Summary & Badges -->
+    <string name="summary_urgent">Cần dùng gấp</string>
+    <string name="summary_soon">Sắp hết hạn</string>
+    <string name="summary_fresh">Còn tươi</string>
+    <string name="estimated_tag">(Ước tính)</string>
+    <string name="suggested_badge">Gợi ý</string>
+    <string name="search_placeholder">Tìm thực phẩm trong tủ...</string>
+
+    <!-- Actions -->
+    <string name="action_mark_used">Đã dùng</string>
+    <string name="action_discard">Bỏ đi</string>
+    <string name="action_edit">Sửa</string>
+    <string name="action_save">Lưu thực phẩm</string>
+    <string name="action_update">Cập nhật</string>
+    <string name="action_cancel">Hủy</string>
+    <string name="action_undo">Hoàn tác</string>
+    <string name="action_restore">Khôi phục</string>
+
+    <!-- Empty States -->
+    <string name="empty_pantry_title">Tủ đồ đang trống</string>
+    <string name="empty_pantry_subtitle">Nhấn nút + bên dưới để thêm thực phẩm và bắt đầu theo dõi hạn sử dụng.</string>
+    <string name="empty_filter_title">Không có thực phẩm ở mục này</string>
+    <string name="empty_filter_subtitle">Thử chọn nơi bảo quản khác hoặc thêm món mới vào tủ.</string>
+
+    <!-- Add / Edit Form -->
+    <string name="add_screen_title">Thêm thực phẩm mới</string>
+    <string name="edit_screen_title">Chỉnh sửa thực phẩm</string>
+    <string name="field_name_label">Tên thực phẩm</string>
+    <string name="field_name_placeholder">VD: Ức gà phi lê, Rau cải ngọt...</string>
+    <string name="field_quantity_label">Số lượng</string>
+    <string name="field_unit_label">Đơn vị</string>
+    <string name="field_location_label">Nơi bảo quản</string>
+    <string name="field_purchase_date_label">Ngày mua</string>
+    <string name="field_expiry_date_label">Hạn sử dụng</string>
+    <string name="auto_estimate_label">Tự động ước tính hạn dùng</string>
+    <string name="auto_estimate_hint">Hệ thống gợi ý hạn dùng dựa trên loại thực phẩm và nơi bảo quản</string>
+
+    <!-- Recipes -->
+    <string name="recipes_title">Gợi ý món ngon</string>
+    <string name="recipes_subtitle">Ưu tiên nguyên liệu sắp hết hạn trong tủ nhà bạn</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Cài đặt &amp; Thống kê</string>
+    <string name="settings_subtitle">Tùy chỉnh nhắc nhở và quản lý lịch sử thực phẩm</string>
+</resources>
