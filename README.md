@@ -1,4 +1,4 @@
-# 🥬 PantryFlow — Nội trợ thảnh thơi
+# 🥬 PantryFlow - Nhẹ việc bếp, trọn niềm vui!
 
 > **10 giây chụp hóa đơn, cả tuần nhàn tênh.**  
 > Ứng dụng web (mobile-first) giúp người nội trợ giảm thiểu tối đa thời gian quản lý thực phẩm trong nhà, không còn nỗi lo quên đồ trong tủ lạnh và chủ động lên thực đơn mỗi ngày.
