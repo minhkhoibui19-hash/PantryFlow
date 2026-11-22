@@ -24,10 +24,3 @@
 - **Lưu trữ dữ liệu:** LocalStorage (hoạt động mượt mà không cần đăng nhập)
 
 ---
-
-## 🚀 Hướng dẫn cài đặt & Chạy trên máy (Local)
-
-### 1. Clone dự án
-```bash
-git clone [https://github.com/](https://github.com/)<ten-github-cua-ban>/pantryflow.git
-cd pantryflow
